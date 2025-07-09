@@ -1,12 +1,50 @@
-## Hi there 👋
+# 🛡️ Malware Detection Extension
 
-<!--
+A Chrome extension that detects malware embedded in downloaded files and email attachments using steganography techniques.
 
-**Here are some ideas to get you started:**
+> 🚧 *Project in development (Git Flow branching strategy applied)*
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 📚 Overview
+
+This project aims to detect hidden malware by analyzing files and emails with embedded steganographic techniques.  
+It's developed as a browser extension (client) with a backend that handles detection logic.
+
+---
+
+## 🧠 Core Features
+
+- 🧩 Chrome extension that scans downloaded files and attachments
+- 🖼️ Steganography-based malware detection engine
+- 📈 Modular structure for integrating future detection models
+- 🛠️ Real-time alerts for suspicious files
+
+---
+
+## 🌿 Git Flow Branch Naming Convention
+
+| Branch      | Purpose                           |
+|-------------|------------------------------------|
+| `main`      | Production-ready release code     |
+| `develop`   | Ongoing development integration   |
+| `feature/*` | New feature development branches  |
+| `release/*` | Pre-release stabilization         |
+| `hotfix/*`  | Urgent fixes for production       |
+
+---
+
+## 👥 Team Members
+
+| Name     | Role               | GitHub                                   |
+|----------|--------------------|------------------------------------------|
+| Seo Beomchang | PM / Backend Developer | [@west-window](https://github.com/west-window) |
+| Mun Seokhwan | General Developer | [@noc02](https://github.com/noc02)   |
+| Park Sangkyoung | Malware Analyst    | [@bsk2002](https://github.com/bsk2002)   |
+| Kim Hyeji | Malware Analyst    | [@hyeroro](https://github.com/hyeroro)   |
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
