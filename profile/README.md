@@ -44,7 +44,3 @@ It's developed as a browser extension (client) with a backend that handles detec
 | Kim Hyeji | Malware Analyst    | [@hyeroro](https://github.com/hyeroro)   |
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
